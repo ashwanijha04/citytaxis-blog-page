@@ -109,7 +109,7 @@ Below is a curated list of **Top 10 Destinations** that should be on your travel
 ---
 
 ### **7. Udaipur – The City of Lakes** 🛶
-![Udaipur Lakes](https://via.placeholder.com/800x400)
+![Udaipur Lakes](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/udaipur.jpg)
 - **Must-Visit Spots**: 
   - 🛶 Lake Pichola
   - 🏰 City Palace
