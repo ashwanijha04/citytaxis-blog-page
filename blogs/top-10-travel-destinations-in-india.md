@@ -84,7 +84,7 @@ Below is a curated list of **Top 10 Destinations** that should be on your travel
 ---
 
 ### **5. Varanasi – The Spiritual Capital of India** 🕉️
-![Varanasi Ghats](https://via.placeholder.com/800x400)
+![Varanasi Ghats](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/varanasi.jpg)
 - **Must-Visit Spots**: 
   - 🕉️ Dashashwamedh Ghat
   - 🛕 Kashi Vishwanath Temple
