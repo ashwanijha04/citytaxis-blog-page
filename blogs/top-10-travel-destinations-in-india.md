@@ -133,7 +133,7 @@ Below is a curated list of **Top 10 Destinations** that should be on your travel
 ---
 
 ### **9. Kashmir – Heaven on Earth** ❄️
-![Kashmir Valleys](https://via.placeholder.com/800x400)
+![Kashmir Valleys](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/kashmir.jpg)
 - **Must-Visit Spots**: 
   - 🏞️ Dal Lake
   - 🏔️ Gulmarg
