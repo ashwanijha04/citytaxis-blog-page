@@ -145,7 +145,7 @@ Below is a curated list of **Top 10 Destinations** that should be on your travel
 ---
 
 ### **10. Mumbai – The City That Never Sleeps** 🌆
-![Mumbai Skyline](https://via.placeholder.com/800x400)
+![Mumbai Skyline](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/mumbai.jpg)
 - **Must-Visit Spots**: 
   - 🏛️ Gateway of India
   - 🌉 Marine Drive
