@@ -34,7 +34,7 @@ Below is a curated list of **Top 10 Destinations** that should be on your travel
 ---
 
 ### **2. Goa – Sun, Sand, and Serenity** 🏖️
-![Goa Beaches](https://via.placeholder.com/800x400)
+![Goa Beaches](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/goa.jpg)
 - **Must-Visit Spots**: 
   - 🏝️ Baga Beach (Nightlife)
   - 🏝️ Palolem Beach (Tranquility)
