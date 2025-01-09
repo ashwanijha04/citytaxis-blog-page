@@ -52,7 +52,7 @@ Below is a curated list of **Top 10 Destinations** that should be on your travel
 ---
 
 ### **3. Leh-Ladakh – Adventures in the Himalayas** 🏔️
-![Leh-Ladakh](https://via.placeholder.com/800x400)
+![Leh-Ladakh](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/ladakh.jpg)
 - **Must-Visit Spots**: 
   - 🏞️ Pangong Lake
   - 🏜️ Nubra Valley
