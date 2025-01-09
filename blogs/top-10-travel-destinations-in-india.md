@@ -15,7 +15,7 @@ Below is a curated list of **Top 10 Destinations** that should be on your travel
 ---
 
 ### **1. Kerala – God’s Own Country** 🌴
-![Kerala Backwaters](https://github.com/ashwanijha04/citytaxis-blog-page/blob/main/images/top-10-places-to-travel-in-india.jpg)
+![Kerala Backwaters]()
 - **Must-Visit Spots**: 
   - 🌊 Alappuzha (Alleppey) Houseboats
   - 🌄 Munnar's Tea Plantations
