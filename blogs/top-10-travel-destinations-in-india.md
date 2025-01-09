@@ -97,7 +97,7 @@ Below is a curated list of **Top 10 Destinations** that should be on your travel
 ---
 
 ### **6. Andaman and Nicobar Islands – A Tropical Paradise** 🌊
-![Andaman Beaches](https://via.placeholder.com/800x400)
+![Andaman Beaches](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/aandn.jpg)
 - **Must-Visit Spots**: 
   - 🏝️ Radhanagar Beach
   - 🌿 Cellular Jail (Historic)
