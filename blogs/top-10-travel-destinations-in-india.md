@@ -121,7 +121,7 @@ Below is a curated list of **Top 10 Destinations** that should be on your travel
 ---
 
 ### **8. Rishikesh – The Yoga Capital of the World** 🧘‍♂️
-![Rishikesh Ganga](https://via.placeholder.com/800x400)
+![Rishikesh Ganga](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/rishikesh.jpg)
 - **Must-Visit Spots**: 
   - 🌉 Laxman Jhula
   - 🛕 Triveni Ghat
