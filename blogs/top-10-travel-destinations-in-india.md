@@ -71,7 +71,7 @@ Below is a curated list of **Top 10 Destinations** that should be on your travel
 ---
 
 ### **4. Jaipur – The Pink City** 🏰
-![Jaipur Forts](https://via.placeholder.com/800x400)
+![Jaipur Forts](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/jaipur.jpg)
 - **Must-Visit Spots**: 
   - 🏰 Amber Fort
   - 🏯 Hawa Mahal
