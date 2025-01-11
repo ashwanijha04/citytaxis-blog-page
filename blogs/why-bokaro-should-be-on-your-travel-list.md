@@ -129,7 +129,7 @@ If you’re looking to break away from the typical tourist trails, Bokaro promis
   - Transportation by CityTaxis  
   - Resort accommodation with meals  
   - Optional spa and wellness treatments  
-- **[Click Here to Book](https://via.placeholder.com)**
+- **[Click Here to Book](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/citytaxis.jpg)**
 
 ---
 
