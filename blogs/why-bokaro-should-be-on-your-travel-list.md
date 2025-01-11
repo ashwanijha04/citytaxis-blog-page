@@ -40,7 +40,7 @@ If you’re looking to break away from the typical tourist trails, Bokaro promis
 - 🌅 **Japanese Garden**: Stroll through ornamental plants, miniature structures, and serene water features.
 
 #### **Parasnath Hills**
-![Parasnath Hills Placeholder](https://via.placeholder.com/800x400)
+![Parasnath Hills Placeholder](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/parasnath.jpg)
 - ⛰️ **Trekking & Adventure**: Lace up your boots and hike to the summit for rewarding panoramic views.  
 - 🕉️ **Spiritual Experience**: Nestled among the hills are Jain temples, offering visitors a glimpse of religious architecture and tranquility.
 
