@@ -12,7 +12,7 @@ Nestled in the heart of Jharkhand, **Bokaro Steel City**—affectionately called
 
 If you’re looking to break away from the typical tourist trails, Bokaro promises an **unforgettable** and **fulfilling** experience for couples, families, and solo travelers alike. Keep reading to discover why Bokaro should top your list—and how **CityTaxis** can simplify your journey every step of the way!
 
-![Bokaro City Placeholder](https://via.placeholder.com/1200x600)
+![Bokaro City Placeholder](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/bksc.jpg)
 
 ---
 
