@@ -35,7 +35,7 @@ If you’re looking to break away from the typical tourist trails, Bokaro promis
 - 🌸 **Family-Friendly Getaway**: Enjoy mini-zoo amenities and lush green landscapes, perfect for families with children.
 
 #### **City Park**
-![City Park Placeholder](https://via.placeholder.com/800x400)
+![City Park Placeholder](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/citypark.jpg)
 - 🚤 **Boat Rides**: Take a relaxing boat ride on the tranquil lake—great for romantic outings or fun family activities.  
 - 🌅 **Japanese Garden**: Stroll through ornamental plants, miniature structures, and serene water features.
 
