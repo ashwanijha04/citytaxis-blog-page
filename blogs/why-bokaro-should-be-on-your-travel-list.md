@@ -30,7 +30,7 @@ If you’re looking to break away from the typical tourist trails, Bokaro promis
 ### 2. **Reconnect with Nature** 🌳
 
 #### **Jawaharlal Nehru Biological Park**
-![Jawaharlal Nehru Biological Park Placeholder](https://via.placeholder.com/800x400)
+![Jawaharlal Nehru Biological Park Placeholder](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/zoo.jpg)
 - 🦁 **Exotic Wildlife**: Lions, tigers, and deer roam in beautifully maintained habitats.  
 - 🌸 **Family-Friendly Getaway**: Enjoy mini-zoo amenities and lush green landscapes, perfect for families with children.
 
