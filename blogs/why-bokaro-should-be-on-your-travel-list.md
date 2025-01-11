@@ -2,7 +2,7 @@
 title: Why Bokaro Should Be on Your Travel List
 date: 2025-01-10
 author: CityTaxis Team
-image: https://via.placeholder.com/1200x600
+image: https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/bksc.jpg
 excerpt: Discover the hidden charm of Bokaro, a city of scenic beauty, cultural vibrancy, and industrial heritage. Perfect for a unique travel experience!
 ---
 
