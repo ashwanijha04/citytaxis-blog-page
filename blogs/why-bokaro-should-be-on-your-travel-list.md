@@ -129,13 +129,13 @@ If you’re looking to break away from the typical tourist trails, Bokaro promis
   - Transportation by CityTaxis  
   - Resort accommodation with meals  
   - Optional spa and wellness treatments  
-- **[Click Here to Book](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/citytaxis.jpg)**
+- **[Click Here to Book](https://)**
 
 ---
 
 ## **Book Your Journey with CityTaxis** 
 
-![CityTaxis in Bokaro](https://via.placeholder.com/800x400)
+![CityTaxis in Bokaro](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/citytaxis.jpg)
 
 - **Comfort & Convenience**: Modern vehicles with air-conditioning, expert drivers, and 24/7 customer support.  
 - **Transparent & Fair Pricing**: No hidden charges—our quotes are comprehensive and upfront.  
