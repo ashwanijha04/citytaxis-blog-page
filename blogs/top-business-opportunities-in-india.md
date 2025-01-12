@@ -124,22 +124,39 @@ Navigating these challenges requires a combination of strategic planning, market
 
 ## References
 [1]: [Economic Policies: Top 10 Economic Policies Followed in India](https://www.economicsdiscussion.net/economic-policies/economic-policies-top10-economic-policies-followed-in-india/9914)
+
 [2]: [A Retrospection on Economic Development of India from Colonial times to ... ](https://www.granthaalayahpublication.org/journals/granthaalayah/article/download/5733/5528?inline=1)
+
 [3]: [The emerging IT landscape of Hyderabad - The Hans India](https://www.thehansindia.com/posts/index/Editors-Desk/2016-04-06/The-emerging-IT-landscape-of-Hyderabad/219248)
+
 [4]: [India's economic triumph: A chronicle of the fastest-growing major ...](https://economictimes.indiatimes.com/news/economy/indicators/indias-economic-triumph-a-chronicle-of-the-fastest-growing-major-economy/articleshow/106083873.cms)
+
 [5]: [India's Economic Surge: A Decade of Robust Growth - InsightsIAS](https://www.insightsonindia.com/2025/01/04/indias-economic-surge/)
+
 [6]: [The IT Industry in India: Past, Present, and Future - LinkedIn](https://www.linkedin.com/pulse/industry-india-past-present-future-farhan-q)
+
 [7]: [Economic liberalisation in India - Wikipedia](https://en.wikipedia.org/wiki/Economic_liberalisation_in_India)
+
 [8]: [Forecasting of Top 10 Industries in India 2023 - DART Consulting](https://www.dartconsulting.co.in/market-news/forecasting-of-top-10-industries-in-india-2023-28-dart-consulting/)
+
 [9]: [Bangalore dominates with 36% of GCCs, Hyderabad drives 45% ... - LinkedIn](https://www.linkedin.com/pulse/bangalore-dominates-36-gccs-hyderabad-drives-45-high-tech-industries-njfsc)
+
 [10]: [70+ Best Small Business Ideas to Start in India - Moneymint](https://moneymint.com/best-small-business-ideas-india/)
+
 [11]: [The Latest Trends in Agriculture in India: The Innovations & Scenarios](https://www.tractorjunction.com/blog/the-latest-trends-in-agriculture-in-india/)
+
 [12]: [Top 10 Best Agri-Tech Companies In India In 2023 - Inventiva](https://www.inventiva.co.in/trends/agri-tech-companies-in-india-in-2023/)
+
 [13]: [Best & worst performing sectors and stocks in FY23](https://www.livemint.com/market/stock-market-news/best-worst-performing-sectors-and-stocks-in-fy23-11683551397888.html)
+
 [14]: [Top 10 Indian Business Trends 2024: A Comprehensive Guide - Emeritus ](https://emeritus.org/in/learn/business-trends-2024-india/)
+
 [15]: [6 Sectors in India that are Likely To Perform Well in Future - Groww](https://groww.in/blog/current-market-condition-sectors-future)
+
 [16]: [Agriculture 4.0: Future of Indian Agriculture - IBEF](https://www.ibef.org/blogs/agriculture-4-0-future-of-indian-agriculture)
+
 [17]: [Emerging Trends in Agriculture in India: A Guide to ... - Asia Farming](https://www.asiafarming.com/emerging-trends-in-agriculture-in-india-a-guide-to-future-of-the-farming)
+
 [18]: [Top 10 Indian Startups to Watch in 2023: A Comprehensive Analysis](https://indiatech.com/indian-startups-to-watch/)
 
 
