@@ -1,5 +1,5 @@
 # **Top Places to Visit in Ranchi**
-author: CityTaxis Team
+
 Ranchi, the capital city of Jharkhand, is a blend of natural beauty and cultural heritage. Known as the "City of Waterfalls," Ranchi offers numerous picturesque locations and landmarks. Let’s explore the top places to visit in Ranchi!
 
 ---
