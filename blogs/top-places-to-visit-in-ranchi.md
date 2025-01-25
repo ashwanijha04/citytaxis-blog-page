@@ -23,7 +23,7 @@ The Rock Garden, situated on Gonda Hill, is an artistic retreat featuring rock s
 ![Tagore Hill](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/tagorehill.jpg)
 Named after Rabindranath Tagore, Tagore Hill is a serene location known for its peaceful ambiance. Ideal for trekking and meditation, it’s just 4 km from the city center. The hill also houses a library and an ashram.
 
----pg
+
 ## **4. Pahari Mandir**
 ![Pahari Mandir](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/paharimandir.jpg)
 Perched on a hilltop, Pahari Mandir is a sacred temple dedicated to Lord Shiva. Visitors can climb 468 steps to reach the temple and enjoy panoramic views of Ranchi. It’s especially popular during the festival of Shivratri.
