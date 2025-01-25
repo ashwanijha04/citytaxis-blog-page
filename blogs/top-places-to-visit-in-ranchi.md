@@ -1,8 +1,11 @@
-# **Top Places to Visit in Ranchi**
-
-Ranchi, the capital city of Jharkhand, is a blend of natural beauty and cultural heritage. Known as the "City of Waterfalls," Ranchi offers numerous picturesque locations and landmarks. Let’s explore the top places to visit in Ranchi!
-
 ---
+title: Top places to visit in ranchi
+date: 2025-01-25
+author: CityTaxis Team
+image: https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/top-places-to-visit-in-ranchi.jpg
+excerpt: Discover Ranchi's most captivating destinations, from serene backwaters to vibrant cities, for your next unforgettable adventure.
+---
+Ranchi, the capital city of Jharkhand, is a blend of natural beauty and cultural heritage. Known as the "City of Waterfalls," Ranchi offers numerous picturesque locations and landmarks. Let’s explore the top places to visit in Ranchi!
 
 ## **1. Dassam Falls**
 ![Dassam Falls](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/dassamfalls.jpg)
