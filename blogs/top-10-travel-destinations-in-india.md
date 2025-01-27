@@ -1,6 +1,6 @@
 ---
 title: Top 10 Travel Destinations in India 
-date: 2025-01-05  
+date: 2025-01-06  
 author: CityTaxis Team  
 image: https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/top-10-places-to-travel-in-india.jpg
 excerpt: Discover India's most captivating destinations, from serene backwaters to vibrant cities, for your next unforgettable adventure.  
