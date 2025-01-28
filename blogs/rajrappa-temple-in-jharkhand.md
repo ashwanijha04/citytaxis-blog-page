@@ -1,8 +1,8 @@
 ---
-title: Rajrappa Temple: A Spiritual and Scenic Gem in Jharkhand
+title : Rajrappa Temple- A Spiritual and Scenic Gem in Jharkhand
 date: 2025-01-28  
 author: CityTaxis Team  
-image: https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/rajrappa-temple-jharkhand-temple.jpg
+image: https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/rajrappa-temple-jharkhand.jpg
 excerpt: Discover India's most Spiritual and Scenic Gem in Jharkhand  
 
 ---
@@ -16,6 +16,8 @@ Rajrappa Temple, located in the Ramgarh district of Jharkhand, is a significant 
 ## Significance of Rajrappa Temple
 
 Rajrappa Temple is renowned for its spiritual and mythological importance. The presiding deity, Goddess Chinnamasta, represents self-sacrifice and divine power. The temple is one of the 51 **Shakti Peethas**, making it an important religious site for followers of **Shaktism**.
+
+![Rajrappa Temple](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/temple.jpg)
 
 ## Attractions at Rajrappa Temple
 
