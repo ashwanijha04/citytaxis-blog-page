@@ -7,8 +7,6 @@ excerpt: Discover India's most Spiritual and Scenic Gem in Jharkhand
 
 ---
 
-# Rajrappa Temple: A Spiritual and Scenic Gem in Jharkhand
-
 ![Rajrappa Temple](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/temple1.jpg)
 
 Rajrappa Temple, located in the Ramgarh district of Jharkhand, is a significant Hindu pilgrimage site dedicated to Goddess Chinnamasta. Nestled at the confluence of the Bhairavi and Damodar rivers, this ancient temple is a must-visit for devotees and tourists alike.
