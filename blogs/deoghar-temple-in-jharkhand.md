@@ -23,25 +23,25 @@ Deoghar offers a mix of spiritual, natural, and cultural attractions. Whether yo
 
 One of the most revered Shiva temples in India, the **Baidyanath Temple** attracts thousands of devotees every year, especially during the Shravan Mela.
 
-![Baidyanath Dham](https://upload.wikimedia.org/wikipedia/commons/4/4a/Baidyanath_Temple_Complex.jpg)
+![Baidyanath Dham](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/d1.jpg)
 
 ### 2. **Trikuta Parvat**
 
 For adventure lovers, **Trikuta Parvat** offers scenic treks and breathtaking views. The three-peaked hill is believed to be the meditation site of several sages.
 
-![Trikuta Parvat](https://upload.wikimedia.org/wikipedia/commons/e/e6/Trikuta_Parvat_Deoghar.jpg)
+![Trikuta Parvat](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/Trikuta_Parvat_Deoghar.jpg)
 
 ### 3. **Naulakha Temple**
 
 This stunning temple, built with an investment of nine lakh rupees, showcases intricate architecture and houses idols of **Radha and Krishna**.
 
-![Naulakha Temple](https://upload.wikimedia.org/wikipedia/commons/3/37/Naulakha_Temple_Deoghar.jpg)
+![Naulakha Temple](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/Naulakha_Temple_Deoghar.jpg)
 
 ### 4. **Tapovan Hills**
 
 Tapovan is another holy site near Deoghar, famous for its **Shiva cave temples** and hot water springs, offering a perfect blend of spirituality and nature.
 
-![Tapovan Hills](https://upload.wikimedia.org/wikipedia/commons/d/d6/Tapovan_Hills_Deoghar.jpg)
+![Tapovan Hills](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/Tapovan_Hills_Deoghar.jpg)
 
 ## How to Reach Deoghar?
 
@@ -52,6 +52,8 @@ Deoghar is well-connected by road and rail. If you're traveling from **Bokaro** 
 - [City Taxis](https://citytaxis.in/) for convenient travel options.
 
 ## Best Time to Visit
+
+![Deoghar Temple](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/d3.jpg)
 
 The ideal time to visit Deoghar is between **October and March**, when the weather is pleasant. However, if you're a devotee, visiting during **Shravan Mela** (July-August) can be a spiritually uplifting experience.
 
