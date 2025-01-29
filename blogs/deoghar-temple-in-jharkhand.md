@@ -7,8 +7,6 @@ excerpt: Discover India's most Spiritual and Scenic Gem in Jharkhand
 
 ---
 
-# Discover Deoghar: The Spiritual & Scenic Gem of Jharkhand
-
 [Book Your Taxi from Bokaro](https://citytaxis.in/bokaro-taxi-service) | [Book Your Taxi from Ranchi](https://citytaxis.in/ranchi-taxi-service) | [City Taxis](https://citytaxis.in/)
 
 ![Deoghar Temple](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/d2.jpg)
