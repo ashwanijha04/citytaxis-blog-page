@@ -2,7 +2,7 @@
 title : Discover Deoghar- The Spiritual & Scenic Gem of Jharkhand
 date: 2025-01-29  
 author: CityTaxis Team  
-image: https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/rajrappa-temple-jharkhand.jpg
+image: https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/deoghar-temple-jharkhand.jpg
 excerpt: Discover India's most Spiritual and Scenic Gem in Jharkhand  
 
 ---
