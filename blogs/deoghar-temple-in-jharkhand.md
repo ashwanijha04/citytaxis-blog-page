@@ -1,5 +1,5 @@
 ---
-title : Discover Deoghar- The Spiritual & Scenic Gem of Jharkhand
+title : Discover Deoghar- Deoghar, also known as Baidyanath Dham
 date: 2025-01-29  
 author: CityTaxis Team  
 image: https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/deoghar-temple-jharkhand.jpg
