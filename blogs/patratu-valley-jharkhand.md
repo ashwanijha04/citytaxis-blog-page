@@ -3,7 +3,7 @@ title : Patratu Valley- A Scenic Escape in Jharkhand
 date: 2025-01-30  
 author: CityTaxis Team  
 image: https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/patratu-valley-jharkhand.jpg
-excerpt: Nestled in the heart of Jharkhand, **Patratu Valley** is a hidden gem.
+excerpt: Nestled in the heart of Jharkhand, Patratu Valley is a hidden gem.
 
 ---
 
