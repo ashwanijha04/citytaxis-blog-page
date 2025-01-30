@@ -8,7 +8,7 @@ excerpt: Nestled in the heart of Jharkhand, **Patratu Valley** is a hidden gem.
 ---
 
 [Book Your Taxi from Bokaro](https://citytaxis.in/bokaro-taxi-service) | [Book Your Taxi from Ranchi](https://citytaxis.in/ranchi-taxi-service) | [City Taxis](https://citytaxis.in/)
-# Patratu Valley: A Scenic Escape in Jharkhand
+
 
 ![Patratu Valley](https://raw.githubusercontent.com/ashwanijha04/citytaxis-blog-page/main/images/p1.jpg)
 
